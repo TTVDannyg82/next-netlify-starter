@@ -12,7 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my website! My name is kye and i hope you enjoy it here!" />
-        <p className="description">Discord: Dannyg82#6969</code>
+        <p className="description">
+    Discord: Dannyg82#6969</code>
         </p>
       </main>
 
